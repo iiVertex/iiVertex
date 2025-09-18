@@ -11,17 +11,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiVertex&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iiVertex&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiVertex&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iiVertex&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
