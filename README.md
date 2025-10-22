@@ -9,13 +9,5 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iiVertex&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
