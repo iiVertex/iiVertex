@@ -1,10 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
+Hello 👋. My Name is Ammar Shoeb; I design, develop, and innovate technical and AI-focused applications to solve real world complex problems. 
+
+🔭 I’m currently working on an AI PDF Analysis Tool <br>
+👯 I’m looking to collaborate on rising startups and AI innovations<br>
+🌱 I’m currently learning Machine Learning Fundamentals<br>
+
+<br>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
