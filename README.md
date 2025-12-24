@@ -2,7 +2,7 @@
 Hello 👋. My Name is Ammar Shoeb; I design, develop, and innovate AI-focused applications to solve real world complex problems. 
 
 🔭 I’m currently working on an AI PDF Analysis Tool <br>
-👯 I’m looking to collaborate on rising startups and AI innovations<br>
+👯 I’m looking to collaborate on rising startups and hackthons<br>
 🌱 I’m currently learning Machine Learning Fundamentals<br>
 
 <br>
