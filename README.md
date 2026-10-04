@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello 👋. My Name is Ammar Shoeb; I design, develop, and innovate AI-focused applications to solve real world complex problems. 
 
-🔭 I’m currently working as a ML Researcher in QRDI  <br>
+🔭 I’m currently working on a RAG Project  <br>
 👯 I’m looking to collaborate on Startups and Hackthons<br>
 🌱 I’m currently learning RAG & Data Pipelines <br>
 
